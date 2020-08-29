@@ -1,5 +1,4 @@
-# ~Duello~
-## A Gentlemen’s Dice Game
+# Duello: A Gentlemen’s Dice Game
 
 ### Equipment
 
@@ -19,9 +18,9 @@ Each turn, players may take 1 of 3 actions. Players indicate they are ready to t
   - Resolution order: 1st.
   - Gesture: Flat hand extended palm, up. 
   - Description: The player may preroll any number of their stock dice.
-- 2nd. Take Aim 
+- Take Aim 
   - Resolution order: 2nd.
-  - Gesutre: Make a ring with thumb and forefinger (the “okay” symbol).
+  - Gesture: Make a ring with thumb and forefinger (the “okay” symbol).
   - Description: The player may select any number of their stock dice and place them forward, near the middle of the playing surface. There player’s goal is to select dice that match their opponent’s target dice. Their opponent then indicates which selected dice do not match their target, and the player sets those dice aside, leaving the correct dice in the middle. The player should take care to leave the incorrect dice with the same side up, as a record of which dice do not match their opponent’s target dice.
 - Take a Shot
   - Resolution order: 3rd.
@@ -60,5 +59,5 @@ In these variants, 3 or more players can play Duello: A Gentlemen’s Dice Game 
 
 Two options exist when playing for stakes:
 
--- Per Point: Players agree upon a set stake per point. If playing a set of games, the winner is payed equal to the difference between their final score and their opponent’s. If playing a multiplayer set, the winner is payed equal to the difference between their final score and each of their individual opponents’.
--- Wagering: Like in poker, at the start of each turn, players may place a bet, which must be called or raised by their opponent(s) to stay in the game. At the end of the game, the winner takes all. Players should decide who will place the first bet for each turn at the start of the game, with following bets proceeding to this player’s left. If playing a set of games, the player to make the first bet rotates to the left at the start of the next game.
+- Per Point: Players agree upon a set stake per point. If playing a set of games, the winner is payed equal to the difference between their final score and their opponent’s. If playing a multiplayer set, the winner is payed equal to the difference between their final score and each of their individual opponents’.
+- Wagering: Like in poker, at the start of each turn, players may place a bet, which must be called or raised by their opponent(s) to stay in the game. At the end of the game, the winner takes all. Players should decide who will place the first bet for each turn at the start of the game, with following bets proceeding to this player’s left. If playing a set of games, the player to make the first bet rotates to the left at the start of the next game.
