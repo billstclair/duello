@@ -1,4 +1,4 @@
-[Duello: A Gentlemen's Dice Game](https://gibboygames.com/duello/) was invented by Chris St. Clair.
+[Duello: A Gentlemen's Dice Game](https://gibboygames.com/duello/) was invented by Chris St. Clair. Rules are in [rules.md](rules.md).
 
 For development:
 
